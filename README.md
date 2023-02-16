@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning System Security
 - 💞️ I’m looking to collaborate on Security Policy Generator for my college project
 - 📫 reach me thru Instagram @ariff_n
+- LinkedIn under construction ⚒️ 
 
 <!---
 ar1ff1n/ar1ff1n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
